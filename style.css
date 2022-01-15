@@ -1,0 +1,29 @@
+.main-heading{
+    background-color: rgb(27, 40, 117);
+    color : white;
+    font-family:"Algerian","Helvetica",sans-serif;
+}
+
+
+.link,
+.sub-heading{
+    background-color: rgb(189, 12, 180);
+    color : black;
+    font-family:"Algerian","Helvetica",sans-serif;
+    font-weight:bolder;
+}
+
+#para{
+    font-weight:bold;
+    color:blue;
+}
+
+.l1{
+    color:coral;
+    font-weight:bold;
+}
+
+.l2{
+    color:crimson;
+    font-weight:bolder;
+}
